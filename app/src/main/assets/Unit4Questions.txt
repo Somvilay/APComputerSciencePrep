@@ -16,3 +16,17 @@ A3. 00000
 A4. Class name@ hashcode in hexadecimal form
 A5. None of the mentioned
 4
+
+What expression should be used to access the first element of an array of integers called numbers?
+A0. numbers[1]
+A1. numbers[0]
+A2. numbers[100]
+A3. numbers[-1]
+A4. numbers[10]
+1
+
+A0.
+A1.
+A2.
+A3.
+A4.

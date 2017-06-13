@@ -14,3 +14,11 @@ A3. All of the above
 A4. Strings
 A5. None of the mentioned
 3
+
+Which of the following choices is the correct syntax for declaring/initializing an array of ten integers?
+A0. int[] a = new int[10];
+A1. int a[10];
+A2. int[10] a = new int[10];
+A3. int a[10] = new int[10];
+A4. int a[] = {10};
+0

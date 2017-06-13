@@ -14,3 +14,29 @@ A3. do-while
 A4. no looping process checks the test condition at the end
 A5. if loops
 3
+Which of the following if statement headers uses the correct syntax?
+A0. if (x == y) {
+A1. if [x == 10] {
+A2. if (x equals 42) {
+A3. if (x => y) {
+A4. if x = 10 then {
+0
+The expression (0.2 + 1.2 + 2.2 + 3.2) should equal 6.8, but in Java it does not. Why not?
+A0. Those numbers are integers in Java, so the sum is 6.
+A1. Java is unable to perform a + expression involving so many numbers, so the code does not compile.
+A2. Java has a bug making it unable to add real numbers accurately, unlike other superior languages such as C++.
+A3. Real numbers are represented as imprecise floating-point numbers in the computer, and the limited precision led to a roundoff error.
+A4. Those numbers are integers in Java, so the sum The programmer forgot to cast the expression to type double, so the result is inaccurate.is 6.
+3
+Consider a method getGrade that accepts an integer representing a student's grade percentage in a course and returns that student's numerical course grade:
+    public static double getGrade(int percentage) {
+     ...
+    }
+The grade can be between 0.0 (failing) and 4.0 (perfect).
+Which of the following are precondition(s) that are appropriate for this method?
+A0. The parameter's value must be greater than or equal to 100.
+A1. The parameter's value must be greater than or equal to 0.
+A2. The parameter must be a letter grade of 'A', 'B', 'C', or 'D'.
+A3. The parameter can be an integer or a real number.
+A4. The parameter's value must be between 0.0 and 4.0.
+1

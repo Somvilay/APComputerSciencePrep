@@ -14,3 +14,18 @@ A3. A method with a return type
 A4. A method call
 A5. A return
 1
+Which of the following is the correct syntax for a method header with parameters?
+A0. public static void example(int x, int y) {
+A1. public static void example(int x,y) {
+A2. public static void example(x: int, y: int) {
+A3. public static void example(x, y) {
+A4. public static (int x, int y) example() {
+
+}
+The System.out.println command works on many different types of values, including ints and doubles. What is the term for such a method?
+A0. overload
+A1. parameter
+A2. override
+A3. overwrite
+A4. overrate
+

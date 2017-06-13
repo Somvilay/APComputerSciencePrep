@@ -14,3 +14,34 @@ A3. Every comment line must end with a semicolon.
 A4. Every method must end with a semicolon.
 A5. Every class must end with a semicolon.
 2
+What is the result of the following expression? 1 + 2 * 3 + 7 * 2 % 5
+A0. 1
+A1. 21
+A2. 2
+A3. 5
+A4. 11
+4
+What is the result of the following expression? "2 + 2 " + 3 + 4
+A0. "2 2 + 3 4"
+A1. "2 + 2 34"
+A2. 11
+A3. 15
+A4. “4 34”
+1
+Which of the following is the correct syntax for declaring the number 'grade' and initializing its value to 4.0?
+A0. 4.0 = grade;
+A1. grade = double 4.0;
+A2. int grade : 4.0;
+A3. grade = 4;
+A4. double grade = 4.0;
+4
+What is the value of variable x after the following code executes?
+    int x = 3;
+    x = x + 2;
+    x = x + x;
+A0. 7
+A1. 3
+A2. 10
+A3. 5
+A4. 12
+2

@@ -1,17 +1,45 @@
 Unit 0:
 Computer Science Basics
+0
 __________ is the brain of a computer.
-A1. Hardware
-A2. CPU
-A3. Memory
-A4. Disk
-A5. Power Button
-2
+A0. Hardware
+A1. CPU
+A2. Memory
+A3 Disk
+A4. Power Button
+1
 ___________ translates high-level language program into machine language program.
-A1. An assembler
-A2. A compiler
-A3. CPU
-A4. The operating system
-A5. A programmer
-2
-
+A0. An assembler
+A1. A compiler
+A2. CPU
+A3. The operating system
+A4. A programmer
+1
+Why do computers use binary numbers?
+A0. At the time when computers were invented, humans only knew about the numbers 0 and 1.
+A1. It is easier to build electronic devices reliably if they only have to distinguish between two electric states.
+A2. It makes the computer faster and more efficient than other number bases.
+A3. It is impossible to build a computer that uses a different number base than binary.
+A4. Because there are 10 types of people: Those who understand binary, and those who don't.
+1
+What is the difference between the file MyProgram.java and the file MyProgram.class?
+A0. The programmer writes the .class file first, and the .java file is generated automatically later.
+A1. A java file contains code written in the Java language, and a .class file contains code written in the C++ language.
+A2. A java file is a much larger binary file and a .class file is a smaller compressed version.
+A3. The class file is for object-oriented programming and the .java file is for procedural programming.
+A4. MyProgram.java is a source code file typed by the programmer, and MyProgram.class is a compiled executable class file that is run by the computer.
+4
+Which of the following is the correct syntax to output a message?
+A0. System.println.out('Hello, world!');
+A1. System.println("Hello, world!");
+A2. Out.system.println"(Hello, world!)";
+A3. System.out.println("Hello, world!");
+A4. System.println(Hello, world!);
+3
+Which of the following method headers uses the correct syntax?
+A0. public static void example() {
+A1. public void static example{} (
+A2. public void static example() {
+A3. public static example void[] {
+A4. public static example() {
+0
